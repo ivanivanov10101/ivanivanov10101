@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello, I'm Ivan 👋
+
+- Welcome to my Github Profile!
+- I am a Full-Stack developer specializing in ReactJS, TypeScript and MongoDB.
+- Here you can find some relevant websites that I have developed, like Filmcheck and Filmio.
+- You can find more about me and my work on my personal website [ ].
 
 <!--
 **ivanivanov10101/ivanivanov10101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
